@@ -1,0 +1,12 @@
+player selection:
+we write the menu choice and dificulty level
+
+steps:
+pacman steps will be first until we run into '\n'
+ghosts steps will be right after, each ghosts seperetly with '\n' between
+fruit steps until '\n'
+fruit spawn locations until location (-1,-1) shows up
+fruit digit figure until '\n'
+
+result:
+the counter number
